@@ -8,3 +8,4 @@ Bienvenido/a a mi primer proyecto en la materia Tecnologías de la Información.
 - **Escuela:** [Agustín Tosco]
 
 ## Sobre este proyecto
+Este proyecto contiene mi primer archivo HTML básico y está alojado gratuitamente mediante GitHub Pages.
